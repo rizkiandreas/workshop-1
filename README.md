@@ -1,2 +1,2 @@
-# workshop-1
-This repo use for 1st workshop react - We can learn how to create a great component based on React JS
+# Workshop React JS
+We will learn how the right way to create a component and render to html with the greatest framework React JS
