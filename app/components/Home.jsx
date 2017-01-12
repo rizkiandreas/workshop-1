@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Class representing canned page
+ * Class representing Home page
  *
  * @export
  * @class Home
@@ -29,7 +29,7 @@ export default class Home extends React.Component {
   render() {
     return (
       <div className="background-style">
-        <h1>Hallo everyone</h1>
+        <h1>Hello Kudo Engineer</h1>
       </div>
     );
   }
